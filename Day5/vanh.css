@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.vuong {
+  width: 500px;
+  height: 500px;
+  background: black;
+  background-color: black;
+}
+.vuong:hover {
+  width: 600px;
+  height: 600px;
+  background: blue;
+  background-color: blue;
+}
+
+.clock {
+  width: 500px;
+  height: 300px;
+  text-align: center;
+  background-color: brown;
+  color: aqua;
+  font-size: 50px;
+}
